@@ -2,6 +2,8 @@
 PIT/JUN24/16002
 
 <h1>Stopwatch Application</h1>
+![WhatsApp Image 2024-07-16 at 1 07 42 PM](https://github.com/user-attachments/assets/8c2e70fe-3ceb-4f92-b6f2-88fb3949ffaf)
+
 
 The Stopwatch Application is a simple and user-friendly tool designed to help you measure time intervals accurately. It offers basic functionalities like starting, stopping, pausing, and resetting the timer, making it ideal for various timing needs.
 
